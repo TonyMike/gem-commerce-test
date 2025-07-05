@@ -50,40 +50,6 @@ The design emphasizes trust, quality, and scientific backing for pet nutrition p
 | **Prettier** | 3.6.2 | Code formatting |
 | **ESLint** | 9.x | Code linting |
 
-## 📁 Project Structure
-gem-commerce-test/
-├── app/                    # Next.js App Router
-│   ├── globals.css        # Global styles and CSS variables
-│   ├── layout.tsx         # Root layout with font configuration
-│   ├── page.tsx           # Home page component
-│   └── favicon.ico        # Site favicon
-├── components/            # Reusable React components
-│   ├── Button.tsx         # Reusable button component
-│   ├── FeatureBox.tsx     # Feature highlight component
-│   ├── HeroSection.tsx    # Main hero section
-│   ├── HealthSection.tsx  # Gastrointestinal health section
-│   ├── NutritionSection.tsx # Nutrition benefits section
-│   ├── PrebioticsSection.tsx # Prebiotics information section
-│   └── icons/             # Custom SVG icon components
-│       ├── real-food.icon.tsx
-│       ├── made-fresh.icon.tsx
-│       ├── ingredient.icon.tsx
-│       ├── vet.icon.tsx
-│       └── payment icons...
-├── public/                # Static assets
-│   └── images/           # Product and feature images
-│       ├── food.png
-│       ├── dog-nutrition.png
-│       ├── dog-health.png
-│       └── biotics.png
-├── tailwind.config.js     # Tailwind configuration
-├── package.json          # Dependencies and scripts
-└── tsconfig.json         # TypeScript configuration
-
-
-## 🧩 Components
-
-
 ### Core Layout Components
 
 #### `app/layout.tsx`
