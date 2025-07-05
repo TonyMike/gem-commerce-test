@@ -17,7 +17,7 @@ const HeroSection = () => {
     <section className="py-8 padding ">
       <div className="max-w-7xl space-y-10 mx-auto">
         <div className="text-center mb-8 lg:mb-12 max-w-sm mx-auto">
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl xl:text-5xl font-bold text-dary-blue mb-4">
+          <h1 className="text-2xl sm:text-3xl  font-bold text-dary-blue mb-4">
             What makes us different makes them stronger
           </h1>
         </div>
